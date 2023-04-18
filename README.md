@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello! I'm RsebaS
 
-<!--
-**RandomSebas/RandomSebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems engineer who loves music, video editing, and design. I'm passionate about creating things that are both beautiful and functional.
 
-Here are some ideas to get you started:
+## My Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎵 Musician
+- 🎥 Video Editor
+- 🎨 Designer
+
+## Social Media
+- [Linktree](https://linktr.ee/RsebaS)
+- [LinkedIn](https://www.linkedin.com/in/sebastian-villarreal-castro-96aab51b8/)
